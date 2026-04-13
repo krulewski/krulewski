@@ -1,26 +1,51 @@
-### Olá! Eu sou o Vinicius Krulewski 🖐️, Iniciante em Desenvovimento Web
+# 👋 Olá! Eu sou o Vinicius Krulewski
 
+💻 Desenvolvedor Back-end com foco em Node.js, TypeScript e MongoDB.
+🚀 Buscando minha primeira oportunidade na área de desenvolvimento.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-krulewski/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciuskrulewski/)
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krulewski&show_icons=true&theme=tokyonight&cache_seconds=1800)
+## 🔗 Contato
 
-### Tecnologias que estou aprendendo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/)
 
-<div style='display: inline_block'><br>
-    <img aling='center' alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
-    <img aling='center' alt='css' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
-    <img aling='center' alt='css' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'/>
-    <img aling='center' alt='javascrip' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
-    <img aling='center' alt='bootstrap' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whiteE'/>
-</div>
+---
 
-###  Olá! Eu sou o Vinicius Krulewski 👋
-Desenvolvedor Back-end em formação, com foco em Node.js, TypeScript e MongoDB.
+## 🚀 Tecnologias
 
-Atualmente desenvolvo APIs REST, trabalhando com integração de banco de dados, organização de código e boas práticas de desenvolvimento.
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-Tenho experiência anterior na área administrativa, o que fortaleceu habilidades como organização, análise e responsabilidade — hoje aplicadas no desenvolvimento de software.
+---
 
-🚀 Buscando minha primeira oportunidade como desenvolvedor para evoluir na prática e contribuir com projetos reais.
+## 📊 GitHub Stats
 
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krulewski\&theme=tokyonight)
+
+![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krulewski\&theme=tokyonight)
+
+---
+
+## 📌 Projetos em destaque
+
+* 🍕 API de Pizzaria (Node.js + TypeScript + MongoDB)
+* 🌐 Projetos front-end (HTML, CSS, JavaScript)
+
+---
+
+## 💡 Sobre mim
+
+Tenho experiência profissional fora da área de desenvolvimento, o que me proporcionou habilidades como organização, responsabilidade e comunicação.
+
+Hoje estou focado em evoluir como desenvolvedor, criando projetos práticos e buscando oportunidades para aplicar meus conhecimentos em ambientes reais.
+
+---
+
+## 📈 Objetivo
+
+🎯 Conquistar minha primeira oportunidade como desenvolvedor back-end.
