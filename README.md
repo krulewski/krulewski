@@ -15,4 +15,12 @@
     <img aling='center' alt='bootstrap' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whiteE'/>
 </div>
 
-###  Estou iniciando o aprendizado nas linguagens e também iniciando a criação de projetos para me desenvolver e treinar os conhecimentos. Em julho/25 me formo em Tecnologia da informação pela FATEC.
+###  Olá! Eu sou o Vinicius Krulewski 👋
+Desenvolvedor Back-end em formação, com foco em Node.js, TypeScript e MongoDB.
+
+Atualmente desenvolvo APIs REST, trabalhando com integração de banco de dados, organização de código e boas práticas de desenvolvimento.
+
+Tenho experiência anterior na área administrativa, o que fortaleceu habilidades como organização, análise e responsabilidade — hoje aplicadas no desenvolvimento de software.
+
+🚀 Buscando minha primeira oportunidade como desenvolvedor para evoluir na prática e contribuir com projetos reais.
+
