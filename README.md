@@ -33,6 +33,8 @@
 
 ## 📌 Projetos em destaque
 
+* 🌐 API Hamburgueria (Node.js + TypeScript + MongoDB + React)
+* 🌐 Aplicação Client-Side - Helpdesk (JavaScript Vanilla (Puro))
 * 🍕 API de Pizzaria (Node.js + TypeScript + MongoDB)
 * 🌐 Projetos front-end (HTML, CSS, JavaScript)
 
